@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 - 🔭 I’m creating full stack web apps and sprinkling in machine learning magic
-- 🌱 I’m currently re-learning React and my front-end skilset
+- 🌱 I’m currently re-learning React and refreshing my front-end skillset
 - 👯 I’m looking to collaborate on designing front-ends for ML enabled webapps
 - 💬 Ask me about machine learning and machine learning operations
 - 📫 How to reach me: wyattkyte@hotmail.com
